@@ -1,0 +1,8 @@
+.submit{
+    color: hotpink;
+    background: pink;
+    border: 1px solid green;
+    position: absolute;
+    left: 30%;
+    top: 50%;
+}
